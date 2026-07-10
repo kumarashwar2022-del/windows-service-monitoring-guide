@@ -1,0 +1,7 @@
+mimikatz.exe
+nc.exe
+netcat.exe
+malware.exe
+hacktool.exe
+evil.exe
+backdoor.exe
